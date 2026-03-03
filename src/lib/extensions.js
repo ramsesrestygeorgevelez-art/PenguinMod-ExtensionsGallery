@@ -66,6 +66,15 @@ export default [
         creator: "pinksheep2917",
     },
     {
+        name: "Code Editor",
+        description: "Create custom code editors using this extension",
+        code: "ramsesrestygeorgevelez-art/codeedit.js",
+        banner: "ramsesrestygeorgevelez-art/codeedit.svg",
+        creator: "RamzaTools",
+        creatorAlias: "ramsesrestygeorgevelez-art",
+        isGithub: true
+    },
+    {
         name: "GPU.sb3",
         description: "Use WebGPU compute shaders to accelerate your projects.",
         code: "derpygamer2142/gpusb3.js",
